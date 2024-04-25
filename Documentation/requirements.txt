@@ -42,7 +42,7 @@ mistune==2.0.5
 packaging==23.1
 pathspec==0.11.2
 picobox==3.0.0
-pydantic==2.3.0
+pydantic==2.4.0
 pydantic_core==2.6.3
 pyenchant==3.2.2
 Pygments==2.16.1
